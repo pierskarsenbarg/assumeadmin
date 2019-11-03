@@ -1,0 +1,3 @@
+name: assumeadmin
+runtime: nodejs
+description: Setup roles, groups and users to assume admin role
